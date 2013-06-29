@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pester.Adapter.Package", "Pester.Adapter.Package\Pester.Adapter.Package.csproj", "{9DF2D38B-58D8-4050-B265-66A1348E0916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pester.Adapter", "Pester.Adapter\Pester.Adapter.csproj", "{EDF3E1BA-E920-4EF6-9062-CC36323F62F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pester.Adapter.Tests", "Pester.Adapter.Tests\Pester.Adapter.Tests.csproj", "{BFFD1426-E4F0-40BF-A629-91638282D0C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DF2D38B-58D8-4050-B265-66A1348E0916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF2D38B-58D8-4050-B265-66A1348E0916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF2D38B-58D8-4050-B265-66A1348E0916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF2D38B-58D8-4050-B265-66A1348E0916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF3E1BA-E920-4EF6-9062-CC36323F62F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF3E1BA-E920-4EF6-9062-CC36323F62F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF3E1BA-E920-4EF6-9062-CC36323F62F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF3E1BA-E920-4EF6-9062-CC36323F62F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFFD1426-E4F0-40BF-A629-91638282D0C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFD1426-E4F0-40BF-A629-91638282D0C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFD1426-E4F0-40BF-A629-91638282D0C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFD1426-E4F0-40BF-A629-91638282D0C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
